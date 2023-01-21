@@ -1,6 +1,4 @@
-# lelebele-resolusi
-Repository untuk menyimpan rencana wpu kedepannya
-Komitmen untuk membuat project 2x seminggu
+Rencana tim lelebele
 Menyusun database engineering
 Menyusun database project managemen
 Menyusun databae operating and maintenance
